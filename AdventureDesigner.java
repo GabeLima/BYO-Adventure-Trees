@@ -1,5 +1,3 @@
-package HW5;
-//Gabriello Lima, 112803276, R01
 import java.util.Scanner;
 public class AdventureDesigner{
 	public void playGame() {
