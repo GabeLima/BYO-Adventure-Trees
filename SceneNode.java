@@ -1,5 +1,3 @@
-package HW5;
-//Gabriello Lima, 112803276, R01
 public class SceneNode extends SceneTree{
 	private String title;
 	private String sceneDescription;
