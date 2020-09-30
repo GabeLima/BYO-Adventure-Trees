@@ -1,5 +1,3 @@
-package HW5;
-//Gabriello Lima, 112803276, R01
 public class SceneTree{
 	private SceneNode root;
 	private SceneNode cursor;
